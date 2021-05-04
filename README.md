@@ -1,7 +1,7 @@
 # Robot Buddies 
 A GUI simulator for simple robots that allows a total of 75 robots to connect and bounce around the screen
 
-Author: Nuha Sheikh 
+Program Author: Nuha Sheikh 
 
 Libraries required:
 - "-lm"
